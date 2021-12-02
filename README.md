@@ -3,4 +3,4 @@ Este es un trabajo de testing automatizado realizado para la materia ingenieria 
 # Tecnologias utilizadas:
 - JavaScrip
 - Node.js
-- Jest 
+- Selenium
